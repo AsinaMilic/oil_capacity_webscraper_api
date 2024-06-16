@@ -19,3 +19,5 @@ A Flask web application that scrapes car model information and oil capacity base
    ```bash
    git clone https://github.com/yourusername/oil_capacity_scraper.git
    cd oil_capacity_scraper
+   pip install -r requirements.txt
+   python app.py
