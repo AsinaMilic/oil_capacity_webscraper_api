@@ -26,7 +26,9 @@ A Flask web application that scrapes car model information and oil capacity base
    pip install -r requirements.txt
    python app.py
 
-### Open the browser, go to local host and choose license plate. Plate exmample: FK207PD
-3. **Open browser and navigate to **
+#### Open the browser, go to local host and type license plate.
+#### Example for this licence plate: FK207PD
+
+3. Open browser and navigate to
    ```bash
    http://127.0.0.1:5000/get_oil_capacity?nr_plates=FK207PD
